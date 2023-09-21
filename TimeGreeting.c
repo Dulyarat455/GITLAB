@@ -8,7 +8,7 @@ void main()
   printf("The current time is %s.\n",asctime(localtime(&timer)));*/
   
   int hours, minutes; char Name[30], answer;
-  int vinxx88;
+  int vinxx8877;
   time_t timer; 
   struct tm *time_now;
   char *the_time;
