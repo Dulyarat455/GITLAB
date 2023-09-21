@@ -9,6 +9,7 @@ void main()
   
   int hours, minutes; char Name[30], answer;
   int vinxx8877;//hhhhhh
+  int vinxx887733;
   time_t timer; 
   struct tm *time_now;
   char *the_time;
